@@ -7,9 +7,9 @@ markdown-sample
 
 列表
 
-*A
-*B
-*C
+* A
+* B
+* C
 
 表格
 
