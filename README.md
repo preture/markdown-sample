@@ -6,6 +6,7 @@ markdown-sample
 ##二级标题
 
 列表
+
 *A
 *B
 *C
@@ -16,7 +17,7 @@ markdown-sample
 --:|:--|:--:
 name|string|名字
 gravatar|string|头像路径
-emails|List<string>|邮件地址列表
+emails|List&lt;string&gt;|邮件地址列表
 
 
 代码
